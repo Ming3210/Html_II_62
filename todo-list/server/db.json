@@ -1,0 +1,19 @@
+{
+  "jobs": [
+    {
+      "id": 2,
+      "name": "Quét nhà",
+      "status": false
+    },
+    {
+      "id": 344567279280,
+      "name": "Ăn cơm",
+      "status": false
+    },
+    {
+      "id": 1981647512707,
+      "name": "Ko thêm nữa",
+      "status": true
+    }
+  ]
+}
